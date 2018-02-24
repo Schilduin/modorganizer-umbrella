@@ -99,7 +99,7 @@ config = {
 
     'Main_Author': 'LePresidente',  # the current maintainer
     'Distrib_Author': 'TanninOne',  # the current distribution (and the original Author)
-    'Work_Author': 'Hugues92',  # yourself
+    'Work_Author': 'Schilduin',  # yourself
 
     'qt_version': '5.10',  # currently evolving
     'qt_minor_version': '0',
